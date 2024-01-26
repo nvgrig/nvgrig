@@ -12,7 +12,16 @@
 <div id="viewCounter" align="center">
   <img src="https://komarev.com/ghpvc/?username=nvgrig&style=flat-square" allign="center">
 </div>
+
+### 👨‍💻 About me:
+---
+- 🖥️: I'm working as a Java Developer at local bank
+- ⚡: In my free time, I reed tech artical, solve problems on Leetcode and learn English
+- 📫: How to contact me: [![Telegram Badge]](https://img.shields.io/badge/nvgrig-blue?style=flat&logo=Telegram&logoColor=white)]
+
+
 <!--
+
 **nvgrig/nvgrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
