@@ -21,7 +21,6 @@
 
 ---
 ### 🛠️ Languages and Tools:
-
 ![Static Badge](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=Java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Maven-grey?style=for-the-badge&logo=Maven&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white)
@@ -30,6 +29,10 @@
 ![Static Badge](https://img.shields.io/badge/REST-grey?style=for-the-badge&logo=REST&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tomcat-green?style=for-the-badge&logo=Tomcat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Intellij%20Idea-blue?style=for-the-badge&logo=Intellij&logoColor=white)
+
+---
+### 🔥 My statistics:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nvgrig&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 
