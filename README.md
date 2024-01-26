@@ -13,12 +13,23 @@
   <img src="https://komarev.com/ghpvc/?username=nvgrig&style=flat-square" allign="center">
 </div>
 
-### 👨‍💻 About me:
 ---
+### 👨‍💻 About me:
 - 🖥️: I'm working as a Java Developer at local bank
 - ⚡: In my free time, I reed tech artical, solve problems on Leetcode and learn English
 - 📫: How to contact me: [![Telegram Badge]](https://img.shields.io/badge/nvgrig-blue?style=flat&logo=Telegram&logoColor=white)]
 
+---
+### 🛠️ Languages and Tools:
+
+![Static Badge](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=Java&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Maven-grey?style=for-the-badge&logo=Maven&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Junit-blue?style=for-the-badge&logo=Junit&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=SQL&logoColor=white)
+![Static Badge](https://img.shields.io/badge/REST-grey?style=for-the-badge&logo=REST&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tomcat-green?style=for-the-badge&logo=Tomcat&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Intellij%20Idea-blue?style=for-the-badge&logo=Intellij&logoColor=white)
 
 <!--
 
