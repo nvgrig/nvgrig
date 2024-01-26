@@ -1,8 +1,14 @@
 <div id="header" align="center">
-  Hi there 👋 my name is Nikita.
+  Hi there 👋 my name is Nikita, I'm Java developer.
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBoaXJuOHc3cm15ZXllcW5qY2F5MTdjemVoN3hkYzFoaGg3ZjA5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBoaXJuOHc3cm15ZXllcW5qY2F5MTdjemVoN3hkYzFoaGg3ZjA5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="355"/>
+</div>
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=headhunter&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
+  
 </div>
 
 <!--
