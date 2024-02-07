@@ -6,7 +6,7 @@
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=headhunter&logoColor=red"/>
+  <a href="https://izhevsk.hh.ru/resume/ef0a2c1dff093566630039ed1f696b43324f53"><img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=headhunter&logoColor=red"/></a>
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 </div>
 <div id="viewCounter" align="center">
