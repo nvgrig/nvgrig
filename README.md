@@ -7,7 +7,7 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nikita-grigoryev-7a07002b0/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://izhevsk.hh.ru/resume/ef0a2c1dff093566630039ed1f696b43324f53"><img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=headhunter&logoColor=red"/></a>
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://t.me/NickGrig"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
 <div id="viewCounter" align="center">
   <img src="https://komarev.com/ghpvc/?username=nvgrig&style=flat-square" allign="center">
