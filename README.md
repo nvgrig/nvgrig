@@ -20,15 +20,18 @@
 - 📫: How to contact me: [![Telegram Badge](https://img.shields.io/badge/nvgrig-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/NickGrig)
 
 ---
-### 🛠️ Languages and Tools:
-![Static Badge](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=Java&logoColor=white)
+### 🛠️ Languages, Skills and Tools:
+![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Maven-grey?style=for-the-badge&logo=Maven&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Junit-blue?style=for-the-badge&logo=Junit&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=SQL&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/REST-grey?style=for-the-badge&logo=REST&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tomcat-green?style=for-the-badge&logo=Tomcat&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Intellij%20Idea-blue?style=for-the-badge&logo=Intellij&logoColor=white)
+![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logo=SQL&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 ### 🔥 My statistics:
