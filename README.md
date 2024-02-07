@@ -17,7 +17,7 @@
 ### 👨‍💻 About me:
 - 🖥️: I'm working as a Java Developer at local bank
 - ⚡: In my free time, I reed tech artical, solve problems on Leetcode and learn English
-- 📫: How to contact me: [![Telegram Badge]](https://img.shields.io/badge/nvgrig-blue?style=flat&logo=Telegram&logoColor=white)]
+- 📫: How to contact me: [![Telegram Badge](https://img.shields.io/badge/nvgrig-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/NickGrig)
 
 ---
 ### 🛠️ Languages and Tools:
